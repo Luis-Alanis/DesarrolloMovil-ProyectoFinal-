@@ -3,10 +3,61 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ProyectoFinalDesarrolloMovil.Services;
+using ProyectoFinalDesarrolloMovil.Models;
 
 namespace ProyectoFinalDesarrolloMovil.ViewModels
 {
-    internal class DetalleGastoViewModel
+    [QueryProperty(nameof(GastoId), "gastoId")]
+    public class DetalleGastoViewModel : BaseViewModel
     {
+        private string gastoId;
+        public string GastoId
+        {
+            get => gastoId;
+            set
+            {
+                gastoId = value;
+                CargarGasto(value);
+            }
+        }
+
+        public string Descripcion { get; set; }
+        public decimal Monto { get; set; }
+        public DateTime Fecha { get; set; }
+
+        public Command EditarCommand { get; }
+        public Command EliminarCommand { get; }
+
+        public DetalleGastoViewModel()
+        {
+            EditarCommand = new Command(async () =>
+            {
+                await Shell.Current.GoToAsync($"EditarGastoPage?gastoId={GastoId}");
+            });
+
+            EliminarCommand = new Command(async () =>
+            {
+                var confirm = await App.Current.MainPage.DisplayAlert("Eliminar", "¿Seguro?", "Sí", "No");
+                if (confirm)
+                {
+                    await ApiService.EliminarGastoAsync(int.Parse(GastoId));
+                    await Shell.Current.GoToAsync("..");
+                }
+            });
+        }
+
+        private async void CargarGasto(string id)
+        {
+            var gasto = await ApiService.ObtenerGastoPorIdAsync(id);
+            Descripcion = gasto.Descripcion;
+            Monto = gasto.Monto;
+            Fecha = gasto.Fecha;
+
+            OnPropertyChanged(nameof(Descripcion));
+            OnPropertyChanged(nameof(Monto));
+            OnPropertyChanged(nameof(Fecha));
+        }
     }
+
 }

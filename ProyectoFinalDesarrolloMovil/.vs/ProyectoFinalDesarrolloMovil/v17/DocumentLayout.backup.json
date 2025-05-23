@@ -1,12 +1,104 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\users\\luisa\\onedrive\\documentos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\users\\luisa\\onedrive\\documentos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\views\\splashpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\views\\splashpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\users\\luisa\\onedrive\\documentos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\users\\luisa\\onedrive\\documentos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\viewmodels\\splashviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\viewmodels\\splashviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\users\\luisa\\onedrive\\documentos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T09:01:55.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SplashViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\SplashViewModel.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\ViewModels\\SplashViewModel.cs",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\SplashViewModel.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\ViewModels\\SplashViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:34:49.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SplashPage.xaml",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\SplashPage.xaml",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Views\\SplashPage.xaml",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\SplashPage.xaml",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Views\\SplashPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T08:21:58.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gasto.cs",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Models\\Gasto.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Models\\Gasto.cs",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Models\\Gasto.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Models\\Gasto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:14:43.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProyectoFinalDesarrolloMovil.csproj",
+              "DocumentMoniker": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj",
+              "ToolTip": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T02:08:34.091Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

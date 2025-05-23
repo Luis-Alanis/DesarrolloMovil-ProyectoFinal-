@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ProyectoFinalDesarrolloMovil.Models
 {
-    internal class Gasto
+    public class Gasto
     {
+        public int Id { get; set; }
+        public string Descripcion { get; set; }
+        public decimal Monto { get; set; }
+        public DateTime Fecha { get; set; }
     }
 }
