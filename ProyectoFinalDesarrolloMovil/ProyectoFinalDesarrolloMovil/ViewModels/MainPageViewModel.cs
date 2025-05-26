@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using ProyectoFinalDesarrolloMovil.Models;
 using System.Collections.ObjectModel;
 using System.Windows.Input;
+using ProyectoFinalDesarrolloMovil.Views;
 
 namespace ProyectoFinalDesarrolloMovil.ViewModels
 {
@@ -14,20 +15,25 @@ namespace ProyectoFinalDesarrolloMovil.ViewModels
         public ObservableCollection<Gasto> Gastos { get; set; } = new();
 
         public ICommand AgregarGastoCommand { get; }
+        public ICommand NavegarAgregarGastoCommand { get; }
 
         public MainPageViewModel()
         {
-            // Datos de ejemplo
             Gastos.Add(new Gasto { Id = 1, Descripcion = "Supermercado", Monto = 120.50m, Fecha = DateTime.Now.AddDays(-1) });
             Gastos.Add(new Gasto { Id = 2, Descripcion = "Gasolina", Monto = 800m, Fecha = DateTime.Now.AddDays(-2) });
 
-            AgregarGastoCommand = new Command(OnAgregarGasto);
+            //AgregarGastoCommand = new Command(OnAgregarGasto);
+            NavegarAgregarGastoCommand = new Command(NavegarAgregarGasto);
         }
 
         private void OnAgregarGasto()
         {
-            // Más adelante esto navegará a la página AgregarGastoPage
             App.Current.MainPage.DisplayAlert("Agregar Gasto", "Funcionalidad pendiente", "OK");
+        }
+
+        private async void NavegarAgregarGasto()
+        {
+            await Shell.Current.GoToAsync(nameof(AgregarGastoPage));
         }
     }
 }
