@@ -12,19 +12,24 @@ namespace ProyectoFinalDesarrolloMovil.ViewModels
 {
     public class BaseViewModel : INotifyPropertyChanged
     {
-        public event PropertyChangedEventHandler PropertyChanged;
-        protected void OnPropertyChanged([CallerMemberName] string name = "") =>
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
+        public event PropertyChangedEventHandler? PropertyChanged;
 
-        bool isBusy = false;
+        protected void OnPropertyChanged([CallerMemberName] string name = "")
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
+        }
+
+        private bool isBusy;
         public bool IsBusy
         {
             get => isBusy;
             set
             {
-                if (isBusy == value) return;
-                isBusy = value;
-                OnPropertyChanged();
+                if (isBusy != value)
+                {
+                    isBusy = value;
+                    OnPropertyChanged();
+                }
             }
         }
     }

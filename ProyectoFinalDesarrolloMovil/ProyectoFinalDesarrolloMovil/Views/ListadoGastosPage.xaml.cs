@@ -1,4 +1,5 @@
 namespace ProyectoFinalDesarrolloMovil.Views;
+using ProyectoFinalDesarrolloMovil.Models;
 
 public partial class ListadoGastosPage : ContentPage
 {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj": {}
+    "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj": {
+    "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj",
+        "projectUniqueName": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj",
         "projectName": "ProyectoFinalDesarrolloMovil",
-        "projectPath": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj",
+        "projectPath": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj",
         "packagesPath": "C:\\Users\\luisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luisa\\OneDrive\\Documentos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\obj\\",
+        "outputPath": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

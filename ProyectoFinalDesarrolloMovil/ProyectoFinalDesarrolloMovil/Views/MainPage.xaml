@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:ProyectoFinalDesarrolloMovil.ViewModels"
+             x:Class="ProyectoFinalDesarrolloMovil.Views.MainPage"
+             Title="Mis Gastos">
+
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel />
+    </ContentPage.BindingContext>
+
+    <VerticalStackLayout Padding="20">
+
+        <Label Text="Lista de Gastos"
+               FontSize="24"
+               HorizontalOptions="Center" />
+
+        <Button Text="Agregar Gasto"
+                Command="{Binding AgregarGastoCommand}"
+                BackgroundColor="DarkGreen"
+                TextColor="White"
+                Margin="0,10" />
+
+        <CollectionView ItemsSource="{Binding Gastos}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="Gray" Margin="5" Padding="10">
+                        <VerticalStackLayout>
+                            <Label Text="{Binding Descripcion}" FontSize="18" />
+                            <Label Text="{Binding Monto, StringFormat='Monto: {0:C}'}" />
+                            <Label Text="{Binding Fecha, StringFormat='Fecha: {0:dd/MM/yyyy}'}" />
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </VerticalStackLayout>
+
+</ContentPage>
