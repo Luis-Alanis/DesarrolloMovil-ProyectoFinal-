@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\viewmodels\\editargastoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\viewmodels\\editargastoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\viewmodels\\agregargastoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\viewmodels\\agregargastoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\viewmodels\\detallegastoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\viewmodels\\detallegastoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\views\\agregargastopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\views\\agregargastopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\platforms\\maccatalyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\platforms\\maccatalyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,98 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml",
               "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml",
               "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml",
               "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-25T23:51:34.235Z",
+              "WhenOpened": "2025-05-28T23:27:42.173Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml.cs",
-              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAYAAAAZAAAAAAAAAA==",
+              "Title": "EditarGastoViewModel.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\EditarGastoViewModel.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\ViewModels\\EditarGastoViewModel.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\EditarGastoViewModel.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\ViewModels\\EditarGastoViewModel.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T03:47:09.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\AppShell.xaml",
-              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\AppShell.xaml",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\AppShell.xaml",
-              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-26T04:13:30.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\AppShell.xaml.cs",
-              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBAAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T04:51:10.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AgregarGastoPage.xaml",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\AgregarGastoPage.xaml",
-              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Views\\AgregarGastoPage.xaml",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\AgregarGastoPage.xaml",
-              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Views\\AgregarGastoPage.xaml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-26T09:22:48.482Z",
+              "WhenOpened": "2025-05-28T21:28:40.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AgregarGastoViewModel.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\AgregarGastoViewModel.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\ViewModels\\AgregarGastoViewModel.cs",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\AgregarGastoViewModel.cs",
-              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\ViewModels\\AgregarGastoViewModel.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Title": "DetalleGastoViewModel.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\DetalleGastoViewModel.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\ViewModels\\DetalleGastoViewModel.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\DetalleGastoViewModel.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\ViewModels\\DetalleGastoViewModel.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T01:21:39.633Z",
+              "WhenOpened": "2025-05-28T21:28:29.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:22:02.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:34:30.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MainPageViewModel.cs",
               "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\MainPageViewModel.cs",
               "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\ViewModels\\MainPageViewModel.cs",
               "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\MainPageViewModel.cs",
               "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\ViewModels\\MainPageViewModel.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAkwB0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T03:53:20.882Z",
+              "WhenOpened": "2025-05-28T21:06:12.258Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Platforms\\MacCatalyst\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Platforms\\MacCatalyst\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Platforms\\MacCatalyst\\Program.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Platforms\\MacCatalyst\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:55:33.622Z"
             }
           ]
         }

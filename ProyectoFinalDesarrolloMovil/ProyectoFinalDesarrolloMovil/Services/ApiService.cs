@@ -5,16 +5,21 @@ using System.Text;
 using System.Threading.Tasks;
 using ProyectoFinalDesarrolloMovil.Models;
 using System.Text.Json;
-
+using ProyectoFinalDesarrolloMovil.Helpers;
 
 namespace ProyectoFinalDesarrolloMovil.Services
 {
     public static class ApiService
     {
-        private static readonly HttpClient client = new HttpClient
+        private static readonly HttpClient client;
+
+        static ApiService()
         {
-            BaseAddress = new Uri("https://TU_BACKEND_URL/api/")
-        };
+            client = new HttpClient
+            {
+                BaseAddress = new Uri(AppSettings.ApiBaseUrl)
+            };
+        }
 
         public static async Task<List<Gasto>> ObtenerGastosAsync()
         {
@@ -24,13 +29,19 @@ namespace ProyectoFinalDesarrolloMovil.Services
             return JsonSerializer.Deserialize<List<Gasto>>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
         }
 
-        public static async Task<Gasto> ObtenerGastoPorIdAsync(string id)
+        public static async Task<Gasto> ObtenerGastoPorIdAsync(int id)
         {
             var response = await client.GetAsync($"gastos/{id}");
-            response.EnsureSuccessStatusCode();
-            var json = await response.Content.ReadAsStringAsync();
-            return JsonSerializer.Deserialize<Gasto>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+
+            if (response.IsSuccessStatusCode)
+            {
+                var json = await response.Content.ReadAsStringAsync();
+                return JsonSerializer.Deserialize<Gasto>(json, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+            }
+
+            return null;
         }
+
 
         public static async Task AgregarGastoAsync(Gasto gasto)
         {

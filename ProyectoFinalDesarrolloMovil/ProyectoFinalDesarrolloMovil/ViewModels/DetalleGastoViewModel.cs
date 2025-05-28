@@ -11,7 +11,7 @@ namespace ProyectoFinalDesarrolloMovil.ViewModels
     [QueryProperty(nameof(GastoId), "gastoId")]
     public class DetalleGastoViewModel : BaseViewModel
     {
-        private string gastoId;
+        public string gastoId;
         public string GastoId
         {
             get => gastoId;
@@ -47,9 +47,15 @@ namespace ProyectoFinalDesarrolloMovil.ViewModels
             });
         }
 
-        private async void CargarGasto(string id)
+        public async Task CargarGasto(string id)
         {
-            var gasto = await ApiService.ObtenerGastoPorIdAsync(id);
+            if (!int.TryParse(id, out int gastoId))
+            {
+                await App.Current.MainPage.DisplayAlert("Error", "ID de gasto inválido", "OK");
+                return;
+            }
+
+            var gasto = await ApiService.ObtenerGastoPorIdAsync(gastoId);
             Descripcion = gasto.Descripcion;
             Monto = gasto.Monto;
             Fecha = gasto.Fecha;
@@ -58,6 +64,7 @@ namespace ProyectoFinalDesarrolloMovil.ViewModels
             OnPropertyChanged(nameof(Monto));
             OnPropertyChanged(nameof(Fecha));
         }
+
     }
 
 }

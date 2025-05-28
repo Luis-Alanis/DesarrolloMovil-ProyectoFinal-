@@ -6,8 +6,10 @@
     xmlns:views="clr-namespace:ProyectoFinalDesarrolloMovil.Views"
     Shell.FlyoutBehavior="Disabled">
 
-    <ShellContent
-        Title="Inicio"
-        ContentTemplate="{DataTemplate views:MainPage}"
-        Route="MainPage" />
+    <ShellContent Title="Inicio" ContentTemplate="{DataTemplate views:MainPage}" Route="MainPage" />
+    <ShellContent Title="Agregar Gasto" ContentTemplate="{DataTemplate views:AgregarGastoPage}" Route="AgregarGastoPage" />
+    <ShellContent Title="Detalle" ContentTemplate="{DataTemplate views:DetalleGastoPage}" Route="DetalleGastoPage" />
+    <ShellContent Title="Ajustes" ContentTemplate="{DataTemplate views:AjustesPage}" Route="AjustesPage" />
+    <ShellContent Title="Editar" ContentTemplate="{DataTemplate views:EditarGastoPage}" Route="EditarGastoPage" />
+    
 </Shell>

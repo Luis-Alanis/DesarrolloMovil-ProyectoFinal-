@@ -10,6 +10,14 @@ namespace ProyectoFinalDesarrolloMovil.Views
             BindingContext = new MainPageViewModel();
         }
 
-    }
+        protected override async void OnAppearing()
+        {
+            base.OnAppearing();
 
+            if (BindingContext is MainPageViewModel vm)
+            {
+                await vm.RefrescarLista();
+            }
+        }
+    }
 }

@@ -35,10 +35,24 @@ namespace ProyectoFinalDesarrolloMovil.ViewModels
 
         private async void CargarGasto(string id)
         {
-            var gasto = await ApiService.ObtenerGastoPorIdAsync(id);
+            if (!int.TryParse(id, out int gastoId))
+            {
+                await App.Current.MainPage.DisplayAlert("Error", "ID de gasto inválido", "OK");
+                return;
+            }
+
+            var gasto = await ApiService.ObtenerGastoPorIdAsync(gastoId);
+
+            if (gasto == null)
+            {
+                await App.Current.MainPage.DisplayAlert("Error", "No se encontró el gasto", "OK");
+                return;
+            }
+
             Descripcion = gasto.Descripcion;
             Monto = gasto.Monto.ToString();
             Fecha = gasto.Fecha;
+
             OnPropertyChanged(nameof(Descripcion));
             OnPropertyChanged(nameof(Monto));
             OnPropertyChanged(nameof(Fecha));
