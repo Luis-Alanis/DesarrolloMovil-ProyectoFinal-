@@ -1,0 +1,59 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:ProyectoFinalDesarrolloMovil.ViewModels"
+             xmlns:local="clr-namespace:ProyectoFinalDesarrolloMovil.Views"
+             x:Class="ProyectoFinalDesarrolloMovil.Views.MainPage"
+             Title="Mis Gastos">
+
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel />
+    </ContentPage.BindingContext>
+
+    <Grid RowDefinitions="Auto,*" Padding="20">
+
+        <!-- Contenido fijo: Título y botones -->
+        <VerticalStackLayout Grid.Row="0" Spacing="15">
+            <Label Text="Lista de Gastos"
+                   FontSize="24"
+                   HorizontalOptions="Center" />
+
+            <Button Text="Agregar Gasto"
+                    Command="{Binding AgregarCommand}"
+                    BackgroundColor="DarkGreen"
+                    TextColor="White"
+                    HorizontalOptions="Center" />
+
+            <Button Text="Ajustes"
+                    Command="{Binding AjustesCommand}"
+                    BackgroundColor="DarkGreen"
+                    TextColor="White"
+                    HorizontalOptions="Center" />
+        </VerticalStackLayout>
+
+        <!-- Lista con scroll: CollectionView -->
+        <CollectionView Grid.Row="1"
+                        ItemsSource="{Binding Gastos}"
+                        VerticalOptions="FillAndExpand">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame BorderColor="Gray" Margin="5" Padding="10">
+                        <VerticalStackLayout>
+                            <Label Text="{Binding Descripcion}" FontSize="18" />
+                            <Label Text="{Binding Monto, StringFormat='Monto: {0:C}'}" />
+                            <Label Text="{Binding Fecha, StringFormat='Fecha: {0:dd/MM/yyyy}'}" />
+                            <Button Text="Ver Detalle"
+                                    Command="{Binding Source={RelativeSource AncestorType={x:Type local:MainPage}}, 
+                                              Path=BindingContext.VerDetalleCommand}"
+                                    CommandParameter="{Binding .}"
+                                    BackgroundColor="DarkMagenta"
+                                    TextColor="White"
+                                    HorizontalOptions="Center"
+                                    Margin="0,10" />
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+    </Grid>
+</ContentPage>

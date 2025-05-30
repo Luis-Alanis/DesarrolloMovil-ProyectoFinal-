@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\viewmodels\\editargastoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\viewmodels\\editargastoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\viewmodels\\detallegastoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\viewmodels\\detallegastoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\platforms\\maccatalyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\platforms\\maccatalyst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T23:27:42.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditarGastoViewModel.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\EditarGastoViewModel.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\ViewModels\\EditarGastoViewModel.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\EditarGastoViewModel.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\ViewModels\\EditarGastoViewModel.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:28:40.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetalleGastoViewModel.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\DetalleGastoViewModel.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\ViewModels\\DetalleGastoViewModel.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\DetalleGastoViewModel.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\ViewModels\\DetalleGastoViewModel.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:28:29.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:22:02.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowDEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:34:30.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:06:12.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Platforms\\MacCatalyst\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Platforms\\MacCatalyst\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Platforms\\MacCatalyst\\Program.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Platforms\\MacCatalyst\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:55:33.622Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
