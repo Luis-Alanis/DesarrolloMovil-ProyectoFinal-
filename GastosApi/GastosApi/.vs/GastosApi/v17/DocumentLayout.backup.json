@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\properties\\publishprofiles\\folder1.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\properties\\publishprofiles\\folder1.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\gastosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\gastosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,48 +46,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GastosApi.csproj",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\GastosApi.csproj",
-              "RelativeDocumentMoniker": "GastosApi\\GastosApi.csproj",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\GastosApi.csproj",
-              "RelativeToolTip": "GastosApi\\GastosApi.csproj",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-28T03:15:07.793Z"
+              "DocumentIndex": 0,
+              "Title": "Folder1.pubxml",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Properties\\PublishProfiles\\Folder1.pubxml",
+              "RelativeDocumentMoniker": "GastosApi\\Properties\\PublishProfiles\\Folder1.pubxml",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Properties\\PublishProfiles\\Folder1.pubxml",
+              "RelativeToolTip": "GastosApi\\Properties\\PublishProfiles\\Folder1.pubxml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-31T09:14:45.292Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "GastosApi\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Models\\Usuario.cs",
+              "RelativeToolTip": "GastosApi\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T02:24:03.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "GastosApi\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "GastosApi\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T02:16:04.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "GastosController.cs",
               "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Controllers\\GastosController.cs",
               "RelativeDocumentMoniker": "GastosApi\\Controllers\\GastosController.cs",
               "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Controllers\\GastosController.cs",
               "RelativeToolTip": "GastosApi\\Controllers\\GastosController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T02:57:19.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GastosApi\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Data\\AppDbContext.cs",
               "RelativeToolTip": "GastosApi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T02:24:24.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Program.cs",
               "RelativeDocumentMoniker": "GastosApi\\Program.cs",
@@ -91,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\appsettings.json",
               "RelativeDocumentMoniker": "GastosApi\\appsettings.json",
@@ -103,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AppSettings.cs",
               "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Services\\AppSettings.cs",
               "RelativeDocumentMoniker": "GastosApi\\Services\\AppSettings.cs",
@@ -115,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Gasto.cs",
               "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Models\\Gasto.cs",
               "RelativeDocumentMoniker": "GastosApi\\Models\\Gasto.cs",

@@ -18,6 +18,7 @@ public partial class AppShell : Shell
         Routing.RegisterRoute("EditarGastoPage", typeof(EditarGastoPage));
         Routing.RegisterRoute("AjustesPage", typeof(AjustesPage));
         Routing.RegisterRoute(nameof(AgregarGastoPage), typeof(Views.AgregarGastoPage));
+        Routing.RegisterRoute("RegistroPage", typeof(RegistroPage));
 
         this.Appearing += AppShell_Appearing;
     }

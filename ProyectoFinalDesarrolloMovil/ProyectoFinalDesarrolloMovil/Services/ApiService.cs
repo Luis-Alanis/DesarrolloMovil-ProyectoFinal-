@@ -69,6 +69,35 @@ namespace ProyectoFinalDesarrolloMovil.Services
             var response = await client.DeleteAsync($"gastos/{id}");
             response.EnsureSuccessStatusCode();
         }
-    }
 
+        public static async Task<Usuario> IniciarSesionAsync(string nombreUsuario, string contrasena)
+        {
+            var usuario = new Usuario
+            {
+                NombreUsuario = nombreUsuario,
+                Contrasena = contrasena
+            };
+
+            var json = JsonSerializer.Serialize(usuario);
+            var content = new StringContent(json, Encoding.UTF8, "application/json");
+            var response = await client.PostAsync("usuarios/login", content);
+
+            if (response.IsSuccessStatusCode)
+            {
+                var jsonResponse = await response.Content.ReadAsStringAsync();
+                return JsonSerializer.Deserialize<Usuario>(jsonResponse, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+            }
+
+            return null;
+        }
+
+        public static async Task<bool> RegistrarUsuarioAsync(Usuario usuario)
+        {
+            var json = JsonSerializer.Serialize(usuario);
+            var content = new StringContent(json, Encoding.UTF8, "application/json");
+            var response = await client.PostAsync("usuarios/registrar", content);
+            return response.IsSuccessStatusCode;
+        }
+
+    }
 }

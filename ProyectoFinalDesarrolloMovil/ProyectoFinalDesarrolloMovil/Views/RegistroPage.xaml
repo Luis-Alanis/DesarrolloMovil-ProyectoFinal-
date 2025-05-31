@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinalDesarrolloMovil.Views.RegistroPage"
+             BackgroundColor="{DynamicResource Fondo}"
+             Title="RegistroPage">
+
+    <VerticalStackLayout Padding="30" Spacing="20">
+        <Label Text="Registro de Usuario" FontSize="24" TextColor="{DynamicResource Texto}" HorizontalOptions="Center" />
+
+        <Entry Placeholder="Nombre de usuario" Text="{Binding Usuario}" />
+        <Entry Placeholder="Contraseña" IsPassword="True" Text="{Binding Contrasena}" />
+        <Entry Placeholder="Confirmar contraseña" IsPassword="True" Text="{Binding ConfirmarContrasena}" />
+
+        <Button Text="Registrar" Command="{Binding RegistrarCommand}" />
+    </VerticalStackLayout>
+    
+</ContentPage>

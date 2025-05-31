@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\models\\gastosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\models\\gastosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\platforms\\android\\resources\\xml\\network_security_config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\platforms\\android\\resources\\xml\\network_security_config.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\helpers\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
-      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+      "AbsoluteMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\proyectofinaldesarrollomovil\\proyectofinaldesarrollomovil\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D768FE-F694-4E96-8AC9-473EBF372442}|ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil.csproj|solutionrelative:proyectofinaldesarrollomovil\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,22 +26,49 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AndroidManifest.xml",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Platforms\\Android\\AndroidManifest.xml",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Platforms\\Android\\AndroidManifest.xml",
-              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Platforms\\Android\\AndroidManifest.xml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-05-30T23:24:50.521Z"
+              "DocumentIndex": 0,
+              "Title": "GastosDbContext.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Models\\GastosDbContext.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Models\\GastosDbContext.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Models\\GastosDbContext.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Models\\GastosDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:47:36.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Models\\Usuario.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T01:57:08.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
+              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAADwv2YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T22:54:52.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "network_security_config.xml",
               "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
               "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Platforms\\Android\\Resources\\xml\\network_security_config.xml",
@@ -51,31 +78,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2025-05-30T23:24:02.759Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
-              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Services\\ApiService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwEkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T22:54:52.246Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppSettings.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Helpers\\AppSettings.cs",
-              "RelativeDocumentMoniker": "ProyectoFinalDesarrolloMovil\\Helpers\\AppSettings.cs",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\ProyectoFinalDesarrolloMovil\\ProyectoFinalDesarrolloMovil\\Helpers\\AppSettings.cs",
-              "RelativeToolTip": "ProyectoFinalDesarrolloMovil\\Helpers\\AppSettings.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T22:43:58.218Z"
             }
           ]
         }

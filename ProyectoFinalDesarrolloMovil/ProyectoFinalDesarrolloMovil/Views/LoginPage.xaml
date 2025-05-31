@@ -12,6 +12,9 @@
 
         <Button Text="Ingresar"
                 Command="{Binding IniciarSesionCommand}" />
+        <Button Text="Crear cuenta"
+                Command="{Binding IrARegistroCommand}" />
+
     </VerticalStackLayout>
     
 </ContentPage>

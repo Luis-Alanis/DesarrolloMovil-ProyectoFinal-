@@ -18,5 +18,6 @@
     <ShellContent Title="Detalle" ContentTemplate="{DataTemplate views:DetalleGastoPage}" Route="DetalleGastoPage" />
     <ShellContent Title="Ajustes" ContentTemplate="{DataTemplate views:AjustesPage}" Route="AjustesPage" />
     <ShellContent Title="Editar" ContentTemplate="{DataTemplate views:EditarGastoPage}" Route="EditarGastoPage" />
+    <ShellContent Route="RegistroPage" ContentTemplate="{DataTemplate views:RegistroPage}" />
 
 </Shell>

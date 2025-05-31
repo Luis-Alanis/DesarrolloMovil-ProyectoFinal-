@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using ProyectoFinalDesarrolloMovil.Services;
 using ProyectoFinalDesarrolloMovil.Models;
+using ProyectoFinalDesarrolloMovil.Views;
 
 namespace ProyectoFinalDesarrolloMovil.ViewModels
 {
@@ -14,22 +15,31 @@ namespace ProyectoFinalDesarrolloMovil.ViewModels
         public string Contrasena { get; set; }
 
         public Command IniciarSesionCommand { get; }
+        public Command IrARegistroCommand { get; }
 
         public LoginViewModel()
         {
             IniciarSesionCommand = new Command(IniciarSesion);
+            IrARegistroCommand = new Command(async () => await Shell.Current.GoToAsync(nameof(RegistroPage)));
         }
 
         private async void IniciarSesion()
         {
-            // Aquí podrías validar con backend si gustas
             if (!string.IsNullOrWhiteSpace(Usuario) && !string.IsNullOrWhiteSpace(Contrasena))
             {
-                await Shell.Current.GoToAsync("///MainPage");
+                var usuario = await ApiService.IniciarSesionAsync(Usuario, Contrasena);
+                if (usuario != null)
+                {
+                    await Shell.Current.GoToAsync("///MainPage");
+                }
+                else
+                {
+                    await Application.Current.MainPage.DisplayAlert("Error", "Credenciales incorrectas", "OK");
+                }
             }
             else
             {
-                await Application.Current.MainPage.DisplayAlert("Error", "Usuario o contraseña inválidos", "OK");
+                await Application.Current.MainPage.DisplayAlert("Error", "Llena todos los campos", "OK");
             }
         }
     }
