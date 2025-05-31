@@ -8,10 +8,6 @@ namespace ProyectoFinalDesarrolloMovil.Helpers
 {
     public static class AppSettings
     {
-#if ANDROID
-        public static string ApiBaseUrl = "https://10.0.2.2:7175/api/";
-#else
-        public static string ApiBaseUrl = "https://localhost:7175/api/";
-#endif
+        public static string ApiBaseUrl = "http://luisalanis-001-site1.qtempurl.com/api/";
     }
 }

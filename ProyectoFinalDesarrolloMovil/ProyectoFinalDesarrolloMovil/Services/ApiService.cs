@@ -15,7 +15,12 @@ namespace ProyectoFinalDesarrolloMovil.Services
 
         static ApiService()
         {
-            client = new HttpClient
+            var handler = new HttpClientHandler
+            {
+                ServerCertificateCustomValidationCallback = (sender, cert, chain, sslPolicyErrors) => true
+            };
+
+            client = new HttpClient(handler)
             {
                 BaseAddress = new Uri(AppSettings.ApiBaseUrl)
             };

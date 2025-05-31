@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\",
+  "WorkspaceRootPath": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\gastosapi\\gastosapi\\gastosapi\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\controllers\\gastoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\gastosapi\\gastosapi\\gastosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\gastosapi\\gastosapi\\gastosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\gastosapi\\gastosapi\\gastosapi\\gastosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\gastosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\gastosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\gastosapi\\gastosapi\\gastosapi\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\models\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\gastosapi\\gastosapi\\gastosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\gastosapi\\gastosapi\\gastosapi\\services\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|c:\\proyectos\\proyecto desarrollo movil\\desarrollomovil-proyectofinal-\\gastosapi\\gastosapi\\gastosapi\\services\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D73D28FE-EA3F-4FE9-AFF4-B0CC8D327487}|GastosApi\\GastosApi.csproj|solutionrelative:gastosapi\\services\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "GastosApi.csproj",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\GastosApi.csproj",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\GastosApi.csproj",
               "RelativeDocumentMoniker": "GastosApi\\GastosApi.csproj",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\GastosApi.csproj",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\GastosApi.csproj",
               "RelativeToolTip": "GastosApi\\GastosApi.csproj",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GastosController.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\Controllers\\GastosController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Controllers\\GastosController.cs",
               "RelativeDocumentMoniker": "GastosApi\\Controllers\\GastosController.cs",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\Controllers\\GastosController.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Controllers\\GastosController.cs",
               "RelativeToolTip": "GastosApi\\Controllers\\GastosController.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GastosApi\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Data\\AppDbContext.cs",
               "RelativeToolTip": "GastosApi\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,9 +81,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Program.cs",
               "RelativeDocumentMoniker": "GastosApi\\Program.cs",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Program.cs",
               "RelativeToolTip": "GastosApi\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\appsettings.json",
               "RelativeDocumentMoniker": "GastosApi\\appsettings.json",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\appsettings.json",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\appsettings.json",
               "RelativeToolTip": "GastosApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -105,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "AppSettings.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\Services\\AppSettings.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Services\\AppSettings.cs",
               "RelativeDocumentMoniker": "GastosApi\\Services\\AppSettings.cs",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\Services\\AppSettings.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Services\\AppSettings.cs",
               "RelativeToolTip": "GastosApi\\Services\\AppSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Gasto.cs",
-              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\Models\\Gasto.cs",
+              "DocumentMoniker": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Models\\Gasto.cs",
               "RelativeDocumentMoniker": "GastosApi\\Models\\Gasto.cs",
-              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\GastosApi\\GastosApi\\GastosApi\\Models\\Gasto.cs",
+              "ToolTip": "C:\\Proyectos\\Proyecto Desarrollo Movil\\DesarrolloMovil-ProyectoFinal-\\GastosApi\\GastosApi\\GastosApi\\Models\\Gasto.cs",
               "RelativeToolTip": "GastosApi\\Models\\Gasto.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAADwvwkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
